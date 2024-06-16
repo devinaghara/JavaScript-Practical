@@ -1,0 +1,15 @@
+.run-button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.run-input-button{
+    display: flex;
+    gap: 10px;
+}
+.extra-run-button{
+    display: flex;
+    gap: 10px;
+}
+
